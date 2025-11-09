@@ -1,3 +1,5 @@
+A demonstration repository for FastAPI app with PostgresSQL, Pytests and Alembic migrations.
+
 Setup your `.env` file as needed.
 
 ## Commands
